@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage"
+title                    : "Zhengyang Tong(佟政阳)"
 title_separator          : "-"
 name                     : &name "Zhengyang Tong"
 description              : &description "a first year PhD student from IIE,CAS"
